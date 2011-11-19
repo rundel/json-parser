@@ -30,4 +30,4 @@ BOOST_FUSION_ADAPT_STRUCT(
     json::keyval,
     (std::string, first)
     (json::value, second)
-);
+)
